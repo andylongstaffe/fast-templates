@@ -1,5 +1,6 @@
-Readme file - any project info should go here.
+Simple web app project with hello world page displayed using Spring MVC.
 
-Can be used by Git as welcome page.
+To run:
+> gradle jettyRun
 
-Test modify.
+Go to http://ipoteams/sites/fast/SitePages/Home.aspx
