@@ -1,4 +1,4 @@
-package uk.gov.ipo.fast.sampleapp.spring.controller;
+package com.hollywood.fast.sampleapp.spring.controller;
 
 import org.apache.log4j.Logger;
 import org.springframework.stereotype.Controller;
